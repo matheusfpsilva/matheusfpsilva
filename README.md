@@ -86,7 +86,7 @@ Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas prá
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusfpsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -94,7 +94,7 @@ Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas prá
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150"
+      height="170"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfpsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
