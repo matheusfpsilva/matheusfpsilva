@@ -1,10 +1,12 @@
 👋 Olá, eu sou Matheus Felipe da Silva! 
 
+🎓 Estudante de **Sistemas de Informação** na PUC Minas (5º período)  
+📍 Belo Horizonte - MG 
+
 ## 🚀 Sobre mim 
+
 Tenho 19 anos e atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e arquitetura de software. 
 Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas práticas de programação.
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -83,7 +85,7 @@ Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas prá
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 5px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusfpsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
