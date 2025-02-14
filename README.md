@@ -8,6 +8,8 @@
 Tenho 19 anos e atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e arquitetura de software. 
 Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas práticas de programação.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -84,7 +86,7 @@ Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas prá
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusfpsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -92,7 +94,7 @@ Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas prá
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfpsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
