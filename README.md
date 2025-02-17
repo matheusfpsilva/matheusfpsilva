@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim 
 
-Tenho 19 anos e atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e arquitetura de software. 
+Tenho 20 anos e atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e arquitetura de software. 
 Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas práticas de programação.
 
 ---
