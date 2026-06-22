@@ -2,12 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-🎓 Estudante de **Sistemas de Informação** na PUC Minas (5º período)  
+🎓 Estudante de **Sistemas de Informação** na PUC Minas (7º período)  
 📍 Belo Horizonte - MG 
 
 ## 🚀 Sobre mim 
 
-Tenho 20 anos e atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e arquitetura de software. 
+Tenho 21 anos e atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, banco de dados e arquitetura de software. 
 Gosto de desafios e sempre estou buscando aprender novas tecnologias e boas práticas de programação.
 
 ---
