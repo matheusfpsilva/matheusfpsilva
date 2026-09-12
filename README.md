@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-🎓 Estudante de **Sistemas de Informação** na PUC Minas (7º período)  
+🎓 Estudante de **Sistemas de Informação** na PUC Minas (8º período)  
 📍 Belo Horizonte - MG 
 
 ## 🚀 Sobre mim 
